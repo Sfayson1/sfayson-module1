@@ -1,3 +1,4 @@
-The terminal is a physical or software-based interface through which users can communicate with their computer. It serves as a workspace where users can enter text-based commands and receive outputs.
+The terminal is a software-based interface that users use to interact with their computer. It accepts the input and sends it to the shell for processing and displays the output result for the user to see. 
 
-The shell is the command interpreter within the command-line environment. It acts as the middleman between the user and the operating system. When a user enters a command in the terminal, the shell takes the command, interprets it, executes it by interacting with the operating system, and returns the result to the terminal for the user to see.
+The shell is the command processor that interprets the commands that we input into the terminal and talks directly to the computer's operating system to execute the commands. It can also runs scripts which allow automation of tasks. 
+
