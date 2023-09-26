@@ -1,0 +1,34 @@
+# Popular Terminal Emulators
+## Alacritty
+
+### PROS
+	• Vi Mode - allows movement around the viewport and scrollback using a keyboard
+	• Vi mode also allows to select and copy text to the clipboard
+	• minimalistic design. 
+
+### CONS
+* lacking in features due to minimalistic design
+* requires manual setup for more advanced setups 
+* learning curve to terminal customization
+
+
+##Termus 
+
+### PROS
+ * cross platform compatibility and support
+* port forwarding
+	• Terminal sharing
+### CONS
+	• subscriptions costs
+ * initial setup learning curve
+* more advanced ssh features may be more than some many need
+
+
+## Tabby
+### pros 
+* cross platform compatible 
+* customizable hot key shortcuts
+* persistent history and tabs
+### cons
+* support is community driven due to it being open sourced
+* advanced features require manual configuration
